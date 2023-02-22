@@ -25,5 +25,5 @@ with open('E:\scrape\Abstraction\pdfs\icici.pdf','rb') as pdf_file:
                         f.write(line+"\n")
                     else:
                         continue
-            print("k")
+            print("hello")
 
